@@ -81,7 +81,7 @@ const soumen = {
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6C63FF&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=soumen-banerejee&label=Profile%20Views&color=6C63FF&style=flat" alt="profile views" />
   <br/>
   <sub>⭐ If you like what you see, consider starring some repos!</sub>
 </div>
