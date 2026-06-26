@@ -46,7 +46,7 @@ const soumen = {
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<p>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soumen-banerejee&show_icons=true&theme=tokyonight&hide_border=true"/>
 
