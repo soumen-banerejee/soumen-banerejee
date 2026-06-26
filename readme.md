@@ -46,11 +46,11 @@ const soumen = {
 
 ## 📊 GitHub Statistics
 
-<p>
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=soumen-banerejee&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=soumen-banerejee&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumen-banerejee&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumen-banerejee&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -66,15 +66,6 @@ const soumen = {
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=soumen-banerejee&theme=tokyo-night"/>
-
-</p>
-
----
 <!-- Connect -->
 ## 📬 Let's Connect
 
