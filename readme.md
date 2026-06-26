@@ -36,8 +36,7 @@ const soumen = {
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -45,30 +44,44 @@ const soumen = {
 
 <br/>
 
-<!-- Current Projects -->
-## 🚀 What I'm Working On
+## 📊 GitHub Statistics
 
-> 🔭 **Current Project:** *(Add your current project name here)*
-> A brief description of what it does and why it's cool.
-> 🔗 [Live Demo](#) • [Source Code](#)
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=soumen-banerejee&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumen-banerejee&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-> 🌱 **Learning:** *(e.g., TypeScript, Framer Motion, Three.js — add what you're currently learning)*
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=soumen-banerejee&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-> 💡 **Open to:** Collaborating on interesting frontend projects — feel free to reach out!
+## 📈 Contribution Graph
 
-<br/>
+<p align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=soumen-banerejee&theme=tokyo-night"/>
+
+</p>
+
+---
 <!-- Connect -->
 ## 📬 Let's Connect
 
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soumen-banerjee-banty)
-   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO_URL) 
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO_URL) 
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumenbanerjee982004@gmail.com)
 
 </div>
